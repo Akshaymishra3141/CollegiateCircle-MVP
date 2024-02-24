@@ -1,7 +1,3 @@
-Certainly! Below is a comprehensive README.md file for your CollegiateCircle project:
-
----
-
 # CollegiateCircle
 
 CollegiateCircle is a specialized social networking platform designed exclusively for college students in Greater Noida. It aims to provide a seamless and secure space for students to connect, interact, and build meaningful connections within their college communities and beyond.
